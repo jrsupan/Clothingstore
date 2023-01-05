@@ -1,0 +1,167 @@
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\bin\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\bin\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojResolveAssemblyReference.cache
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.Cache
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.pdb
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.xml
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojResolveAssemblyReference.cache
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.Cache
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe.config
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe.config
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe.config
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\bin\Debug\Clothingstore.pdb
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\bin\Debug\Clothingstore.xml
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojResolveAssemblyReference.cache
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Users\JOJO\Desktop\all\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.Cache
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form4.resources
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form5.resources
+C:\Users\jefferson\Desktop\Clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.restock.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form4.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form5.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.strecords.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form6.resources
+C:\Users\JOJO\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form7.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe.config
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\bin\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojResolveAssemblyReference.cache
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form4.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form5.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form6.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form7.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.strecords.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.Cache
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form8.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form11.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form22.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form33.resources
+C:\Users\jefferson\Desktop\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form0.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe.config
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\bin\Debug\Clothingstore.pdb
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\bin\Debug\Clothingstore.xml
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojResolveAssemblyReference.cache
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form0.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form11.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form22.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form33.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form4.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form5.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form6.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form7.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form8.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.strecords.resources
+C:\Users\JOJO\Desktop\New folder\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.Cache
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe.config
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojResolveAssemblyReference.cache
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form0.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form11.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form22.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form33.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form4.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form5.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form6.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form7.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form8.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.strecords.resources
+C:\Users\jefferson\Desktop\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.Cache
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe.config
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.exe
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.pdb
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\bin\Debug\Clothingstore.xml
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojResolveAssemblyReference.cache
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form0.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form11.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form22.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form33.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form4.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form5.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form6.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form7.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form8.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.strecords.resources
+C:\Users\jefferson\Desktop\Files\Chavez&Supan_ACSS\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.Cache
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbprojAssemblyReference.cache
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form0.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form11.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form22.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form33.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form1.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form2.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form3.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form4.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form5.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form6.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form7.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Form8.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Receipt.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.Resources.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.strecords.resources
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.GenerateResource.cache
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.vbproj.CoreCompileInputs.cache
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.exe
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.xml
+C:\Project\BaseCode\clothing store\Clothingstore\Clothingstore\obj\x86\Debug\Clothingstore.pdb
